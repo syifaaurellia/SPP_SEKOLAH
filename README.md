@@ -23,7 +23,7 @@ https://github.com/syifaaurellia/SPP_SEKOLAH/assets/115867244/e11a85a9-fa95-4332
 > 2. Tampilan `MASTER` yang berisi halaman data `PETUGAS`, `NAMA KOMPETENSI`, `KELAS`, `SPP`, `SISWA`, `DETAIL SISWA` :
 
 
-https://github.com/syifaaurellia/SPP_SEKOLAH/assets/115867244/78aaffcc-e3d7-48cc-946d-b3ab474f3df5
+https://github.com/syifaaurellia/SPP_SEKOLAH/assets/115867244/ed1da9f3-78a3-4db6-a762-1629faac901a
 
 
 > 3. Tampilan `Pembayaran` yang berisi halaman `Rekapitulasi Pembayaran` untuk penginputan pembayaran SPP :
