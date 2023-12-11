@@ -4,7 +4,7 @@ Nama : Syifa Aurellia Rahma
 
 NIM : 312210009
 
-Kelas : 312210009
+Kelas : TI.22.A1
 
 Mata Kuliah : Rekayasa Perangkat Lunak
 
